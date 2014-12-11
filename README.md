@@ -2,7 +2,7 @@
 ---------------------
 
 # Project Description
-This is a implementational study of the reaction-diffusin model as described by Barkley **et al**. 
+This is an implementational study of the reaction-diffusin model as described by Barkley **et al**. 
 
 ![image](figures/eqn/eqn001.png)
 
